@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="assets/Untitled (2).svg" alt="Trained models performance comparisons" width="600"/>
+  <img src="assets/figures.svg" alt="Trained models performance comparisons" width="600"/>
   <br/>
   <em>Trained models performance comparisons.</em>
 </p>
