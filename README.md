@@ -1,3 +1,5 @@
+### Project: CSE 4872 - Neural Network and Fuzzy System Lab (Spring 2022)
+
 - Leveraged the [HAM10000 dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T), which contains 10,015 dermatoscopic images categorized into seven classes of pigmented skin lesions:  
   - actinic keratoses and intraepithelial carcinoma/Bowen's disease (**akiec**)  
   - basal cell carcinoma (**bcc**)  
